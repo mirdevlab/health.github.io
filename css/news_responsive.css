@@ -1,0 +1,20 @@
+/***** 991px *****/
+@media only screen and (max-width: 991px){
+	.news_sidebar{
+		margin-top: 100px;
+	}
+}
+
+
+/***** 575px ******/
+@media only screen and (max-width: 575px)
+{
+	p
+	{
+		font-size: 13px !important;
+	}
+	.news_post_title a
+	{
+		font-size: 24px;
+	}
+}

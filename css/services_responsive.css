@@ -1,0 +1,41 @@
+/***** 1199px ******/
+@media only screen and (max-width: 1199px){
+	.box{
+		padding-left: 30px;
+	}
+}
+
+/***** 991px ******/
+@media only screen and (max-width: 991px){
+	.box{
+		width: 100%;
+		padding-left: 90px;
+	}
+	.tab_panels{
+		margin-top: 40px;
+	}
+}
+
+/***** 767px ******/
+@media only screen and (max-width: 767px){
+	.box{
+		padding-left: 60px;
+	}
+}
+
+
+/***** 575px ******/
+@media only screen and (max-width: 575px){
+	p{
+		font-size: 13px;
+	}
+	.box{
+		padding-left: 30px;
+	}
+	.box_title{
+		font-size: 24px;
+	}
+	.box_text{
+		font-size: 13px;
+	}
+}

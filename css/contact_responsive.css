@@ -1,0 +1,28 @@
+/***** 1199px *****/
+@media only screen and (max-width: 1199px){
+	.footer_contact_form div input{
+		width: 100%;
+	}
+}
+/***** 991px ******/
+@media only screen and (max-width: 991px){
+	.contact_col:not(:last-child){
+		margin-bottom: 60px;
+	}
+	.contact_info{
+		position: relative;
+		left: 15px;
+		top: auto;
+		width: calc(100% - 30px);
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+	.contact_info_list_2{
+		padding-top: 0;
+	}
+	.contact_map
+	{
+		margin-top: 65px;
+		height: 650px;
+	}
+}
